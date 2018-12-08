@@ -1,0 +1,137 @@
+*,*:before, *:after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+html,body {
+    height: 100%;
+}
+
+header {
+background-color: white;
+border-bottom-width: 2px;
+border-bottom-color: #cccccc;
+border-bottom-style: solid;
+}
+#container {
+    min-height: 100%;
+}
+#main {
+    overflow: auto;
+    padding-bottom: 50px;
+}
+
+body{
+    margin: 0px 0px 0px 0px;
+    background-image: url("./Background.png");
+    min-height: 100%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 100%;
+}
+    h1 {
+        background-color: #4aaaa5;
+        color: white;
+        padding: 15px;
+        display: inline-block;
+        margin-bottom: 0;
+    }
+
+    header div {
+        width: 960px;
+        margin: 0 129px;
+        font-family: 'Georgia','Times New Roman', Times, serif;
+    }
+
+    nav {
+            /* list-style-type: none;
+            margin: 0;
+            padding: 0;
+        display: inline-block;
+        text-align: right;
+        position: relative;
+        left: 40%; */
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        text-align: right;
+        position: relative;
+        left: 480px;
+    }
+
+    li {
+        display: inline;
+    border-right: 1px solid #bbb;
+    }
+  
+    li:last-child {
+        border-right: none;
+    }
+    
+
+     a {
+        text-decoration: none;
+        margin: 0px 5px;
+        color: grey;
+    }
+
+    .clearfix::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+        main {
+            width: 960px;
+        }
+        .container{
+            /* margin: 10% 120px;
+            background-color: white;
+            border-style: solid;
+            border-color: grey;
+            border-radius: 5px;
+            padding: 20px;
+            position: relative; */
+            background-color: white;
+            border-style: solid;
+            border-color: grey;
+            border-radius: 5px;
+            padding: 18px;
+            position: absolute;
+            top: 130px;
+            width: 960px;
+            margin-left: 129px;
+        }
+
+        main div h2 {
+            color: #4aaaa5; 
+            font-size: 30px;
+            border-bottom: solid;
+            border-bottom-color: grey;
+            border-width: 100%;
+            padding: 15px;
+        }
+        main div img {
+            width: 150px;
+            height: 150px;
+            float: left;
+        }
+       
+        main div p{
+            background-color: white;
+        }
+
+    footer {
+        /* positioning */
+            position: fixed;
+            height: 50px;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+        /* Colors */
+            background-color: #666666;
+            color: white;
+            border-top: 5px solid #4aaaa5;
+          }
