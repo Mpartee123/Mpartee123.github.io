@@ -1,0 +1,52 @@
+/*Change tab on right side of nav bar*/
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-left: 6%;
+    font-size: 32px;
+    line-height: inherit;
+    white-space: nowrap;
+    color: white;
+    background-color: #4aaaa5;
+}
+
+/*Nav bar link styling on right side of page*/
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #4aaaa5;
+}
+
+.nav-pills {
+    margin-bottom: -6%;
+}
+
+/*Make text white*/
+.white-text {
+    color: white;
+}
+
+/*Body styling*/
+body {
+    margin: 0;
+    background-image: url("./Background.png");
+    min-height: 100%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 100%;
+}
+
+/*About me styling*/
+.card {
+    margin: 10%;
+}
+.card-body {
+    padding: 5%;
+}
+h1{
+    color: #4aaaa5;
+    font-size: 30px;
+    border-bottom: solid;
+    border-bottom-color: grey;
+    border-width: 100%;
+    padding: 15px;
+}

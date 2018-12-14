@@ -1,0 +1,106 @@
+/*Change tab on right side of nav bar*/
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-left: 9%;
+    font-size: 32px;
+    line-height: inherit;
+    white-space: nowrap;
+    color: white;
+    background-color: #4aaaa5;
+}
+
+/*Nav bar link styling on right side of page*/
+.nav-pills .nav-link.active, .nav-pills .show .nav-link {
+    color: #fff;
+    background-color: #4aaaa5;
+}
+/*maintains right spacing for links while screen is large*/
+    .navbar-expand-lg .navbar-collapse {
+        padding-right: 8%;
+    }
+.nav-pills {
+    margin-bottom: -6%;
+
+}
+
+/*Make text white*/
+.white-text {
+    color: white;
+}
+
+/*Body styling*/
+body {
+    margin: 0;
+    background-image: url("./Background.png");
+    min-height: 100%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 100%;
+}
+/*Header styling*/
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: white;
+    border-bottom: none;
+}
+/*About me styling*/
+.card {
+    margin: 10%;
+}
+.card-body {
+    padding: 5%;
+}
+h1{
+    color: #4aaaa5;
+    font-size: 35px;
+    border-bottom: solid;
+    border-bottom-color: grey;
+    padding: 15px;
+    font-weight: bolder;
+}
+
+.img-thumbnail {
+    width: 200px;
+    margin-right: 3%;
+    margin-bottom: 3%;
+}
+
+/*Footer styling*/
+footer {
+    /* positioning */
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    /* Colors */
+    background-color: #666666;
+    border-top: 5px solid #4aaaa5;
+    z-index: auto;
+
+}
+
+.portfolio-image {
+    height: 200px;
+    width: 200px;
+}
+
+.img-format {
+    width: 100%;
+}
+
+.pimg-footer {
+    position: relative;
+    background-color: #4aaaa5;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    padding: .3rem;
+    margin-block-start: -5rem;
+}
+
+.bkrnd-color {
+    background-color: #4aaaa5;
+}
