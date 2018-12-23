@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hangman</title>
+    <link rel="stylesheet" href="./assets/css/reset.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <script type="text/javascript" src="./assets/javascript/hangman.js"></script>
+</head>
+
+<body>
+
+<div class="card">
+
+    <!--<img class="card-img" src="./assets/images/hangman.jpg" alt="Hangman">-->
+
+    <div class="card-img-overlay">
+        <div class="card-top">
+            <h1> Hangman</h1>
+        </div>
+
+        <div class="card-body">
+            <div class="row">
+
+                <div class="col-lg-6 col-med-6 col-sm-12">
+                    <h2>Press any key to get started! </h2>
+
+                    <div class="win">
+                        <h3>Wins</h3>
+                    </div>
+                    <div id="wins"></div>
+
+                    <div class="Losses">
+                        <h3>Losses</h3>
+                    </div>
+                    <div id="losses"></div>
+                </div>
+
+
+                <div class="col-lg-6 col-med-6 col-sm-12">
+
+                    <div class="current-word">
+                        <h2>Current Word </h2>
+                    </div>
+                    <div id="guessed-word"></div>
+
+                    <div class="number-guess">
+                        <h3>Number of Guesses remaining</h3>
+                        <div id="guessesRemaining"></div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+
+                <div class="panel panel-default col-lg-md-sm-12">
+                    <div class="panel-heading">Guessed Letters</div>
+                    <div class="panel-body">
+                        <div id="guessed-letters"></div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+</body>
+</html>
