@@ -13,60 +13,64 @@ not displayed. The information between the BODY and /BODY tags is displayed.-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Maurice Partee's Portfolio</title>
-    <link href="./assets/css/style_portfolio.css" rel="stylesheet" type="text/css" />
+    <link href="./assets/css/style_portfolio.css" rel="stylesheet" type="text/css"/>
 </head>
 
 <body>
-    <header>
-        <!--Below should be a tab at the top left of the screen-->
-        <div>
-            <h1>Maurice Partee</h1>
-            <nav>
-                <li><a href="./index.html">About</a></li>
-                <li><a href="./portfolio.html">Portfolio</a></li>
-                <li><a href="./contact.html">Contact</a></li>
-                
-            </nav>
-        </div>
-    </header>
+<header>
+    <!--Below should be a tab at the top left of the screen-->
+    <div>
+        <h1>Maurice Partee</h1>
+        <nav>
+            <li><a href="./index.html">About</a></li>
+            <li><a href="./portfolio.html">Portfolio</a></li>
+            <li><a href="./contact.html">Contact</a></li>
 
-    <main>
-        <div class="main-box">
+        </nav>
+    </div>
+</header>
 
-            <h2>Portfolio</h2><br><br>
-            <div class="container">
-                <div class="gallery">
-                    <img src="./assets/images/hangman.jpg" alt="Hangman" width="200px" height="200px">
-                    <div class="overlay">Hangman</div>
-                </div>
-                <div class="gallery">
-                    <img src="./assets/images/rpg.jpg" alt="RPG Game" width="200px" height="200px">
-                    <div class="overlay">RPG Game</div>
-                </div>
-                <div class="gallery">
-                    <img src="./assets/images/Trivia.jpg" alt="Trivia Game" width="200px" height="200px">
-                    <div class="overlay">Trivia Game</div>
-                </div>
-                <div class="gallery">
-                    <img src="./assets/images/rutgers.jpg" alt="Rutgers Info Widget" width="200px" height="200px">
-                    <div class="overlay">Rutgers Info Widget</div>
-                </div>
-                <div class="gallery">
-                    <img src="./assets/images/rockpaperscissors.jpg" alt="Rock Paper Scissors" width="200px" height="200px">
-                    <div class="overlay">Rock Paper Scissors</div>
-                </div>
+<main>
+    <div class="main-box">
 
+        <h2>Portfolio</h2><br><br>
+        <div class="container">
+            <div class="gallery">
+                <img src="./assets/images/hangman.jpg" alt="Hangman" width="200px" height="200px">
+                <div class="overlay">Hangman</div>
+            </div>
+            <div class="gallery">
+                <img src="./assets/images/rpg.jpg" alt="RPG Game" width="200px" height="200px">
+                <div class="overlay">RPG Game</div>
+            </div>
+            <div class="gallery">
+                <a href="https://mpartee123.github.io/Trivia-Game/index.html" id="Trivia-Game/index" onclick="document.location=this.id+'.html';return false;">
+                    <img src="./Trivia-Game/assets/images/rupaul.gif" alt="Trivia Game" width="200px" height="200px">
+                </a>
+                <div class="overlay">Trivia Game</div>
+            </div>
+            <div class="gallery">
+                <img src="./assets/images/rutgers.jpg" alt="Rutgers Info Widget" width="200px" height="200px">
+                <div class="overlay">Rutgers Info Widget</div>
+            </div>
+            <div class="gallery">
+                <img src="./assets/images/rockpaperscissors.jpg" alt="Rock Paper Scissors" width="200px" height="200px">
+                <div class="overlay">Rock Paper Scissors</div>
             </div>
 
-
         </div>
 
-        <footer><br>
-            <p>Copyright 2018&copy</p>
-        </footer>
 
-    </main>
+    </div>
 
+    <footer><br>
+        <p>Copyright 2018&copy</p>
+    </footer>
+
+</main>
+<script>
+    document.onclick()
+</script>
 </body>
 
 </html>
