@@ -19,13 +19,13 @@ form {
     height: 1.5rem;
 }
 
-h1 {
-    background-color: #8b8941;
-}
+/*h1 {*/
+    /*background-color: #8b8941;*/
+/*}*/
 
-h3 {
-    background-color: #8b8941;
-}
+/*h3 {*/
+    /*background-color: #8b8941;*/
+/*}*/
 
 input {
     font-family: 'Indie Flower', cursive;
@@ -58,7 +58,8 @@ button {
 
     font-size: 1.75rem;
     padding: 5px 0;
-    background-color: #8b8941;
+    border-radius: 10px;
+    background-color: #7c3e39;
     display: table;
     margin-left: auto;
     margin-right: auto;
