@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Maurice Partee's GitHub Projects</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/style.css">
+
+
+    <!-- Devicons -->
+    <link rel="stylesheet" href="css/devicon.css">
+    <link rel="stylesheet" href="css/devicon-colors.css">
+
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+</head>
+
+<body>
+<div class="container main-container">
+
+    <div class="row">
+
+        <!-- side content -->
+        <div class="col-sm-3 about-me about-side text-center hidden-xs">
+            <img src="img/profile_photo.jpg" width=200 class="profile-pic img-responsive center-block">
+            <h1>Maurice Partee</h1>
+            <h2>Junior Web Developer</h2>
+            <div class="text-center" style="margin:20px">
+                <a href="https://www.linkedin.com/in/mpartee123/" class="cta-icon"><img src="img/linkedin.png"
+                                                                                        style="width: 28px; height: 28px"
+                                                                                        alt="Linkedin"></a>
+                <a href="https://mpartee123.github.io/" class="cta-icon"><i
+                        class="devicon-github-plain colored"></i></a>
+            </div>
+        </div>
+
+        <div class="text-center about-me hidden-sm hidden-md hidden-lg">
+            <img src="img/profile_photo.jpg" width=200 class="profile-pic img-responsive center-block">
+            <h1>Maurice Partee</h1>
+            <h2>Junior Web Developer</h2>
+
+            <div class="text-center" style="margin:20px">
+                <a href="https://www.linkedin.com/in/mpartee123/" class="cta-icon"><img src="img/linkedin.png"
+                                                                                        style="width: 28px; height: 28px"
+                                                                                        alt="Linkedin"></a>
+                <a href="https://mpartee123.github.io/" class="cta-icon"><i
+                        class="devicon-github-plain colored"></i></a>
+            </div>
+        </div>
+
+        <div class="bottom-cta hidden-sm hidden-md hidden-lg text-center">
+            <div class="btn btn-launch"><a class="email-button" href="mailto:newtothescene3@gmail.com">Get In Touch</a></div>
+        </div>
+
+
+        <!-- main content -->
+        <div class="col-sm-9 col-sm-offset-3">
+
+            <div class="row work-item-row">
+                <div class="col-sm-8 col-sm-offset-2 project">
+                    <img src="img/waitItOuthome_samsung-galaxynote5-gold-portrait.png" class="img-responsive">
+                    <h2 class="text-center"><a href="http://jobb.ie" target="blank">Wait It Out</a></h2>
+                    <p>A simple web app built to quickly find things to do. Users select from three main categories and
+                        three sub categories to find their desired activity. This app was based on the idea that traffic
+                        is not a pleasant experience and users would rather find something else to do if it was close
+                        by.</p>
+                    <h4>Technology</h4>
+                    <p>Wait It Out uses Bootstrap3 for a mobile-first layout, with jQuery for easy page manipulation. On
+                        the back end the page makes requests to both the Google places API and the Google maps API to
+                        pull results that are both close by and open at the time of the request.</p>
+
+                    <div class="row text-center">
+                        <div class="col-xs-12">
+                            <img src="img/techlogos/jquery.png" class="techlogo" width="100">
+                            <img src="img/techlogos/bootstrap.png" class="techlogo" width="100">
+                            <img src="img/techlogos/google-cloud-logo.svg" class="techlogo" width="100">
+                            <img src="img/techlogos/googleMaps.png" class="techlogo" width="100">
+                        </div>
+                    </div>
+
+                    <div class="row text-center" style="margin:20px;">
+                        <a class="btn btn-launch" href="https://mpartee123.github.io/Project-1/"
+                           target="blank">Launch</a>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="row row-tools row-grey">
+                <div class="col-sm-12 text-center">
+                    <h3>Tools that I use</h3>
+                    <img src="img/tool-logos/ubuntu.png" class="techlogo" width="150">
+                    <img src="img/tool-logos/git.png" class="techlogo" width="150">
+                    <img src="img/tool-logos/webstorm.png" class="techlogo" width="150">
+                </div>
+            </div>
+
+            <div class="row row-footer text-center">
+                <div class="col">
+                    <div class="page-bottom">
+                        <h3 style="margin:50px 0 15px">I'm available for work, get in touch</h3>
+                        <a href="https://www.linkedin.com/in/mpartee123/" class="link" target="_blank">
+                            MPartee123@linkedin.com
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- end main content -->
+    </div>
+</div>
+
+
+<!-- Including Bootstrap JS (with its jQuery dependency) so that dynamic components work -->
+<script src="js/jquery-3.1.0.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!-- <script src="js/myScripts.js"></script> -->
+
+<script>
+    $(document).scroll(function () {
+        var y = $(this).scrollTop();
+        if (y > 500) {
+            $('.bottom-cta').slideDown();
+        } else {
+            $('.bottom-cta').slideUp();
+        }
+    });
+</script>
+
+</body>
+</html>
