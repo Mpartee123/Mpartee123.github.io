@@ -2,167 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37d7c07d-3c60-48a9-a52c-d490c0b3b21d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/devicon-colors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/devicon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/devicon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/devicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/devicon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/devicon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/hover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Logo-2C-14px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/jobbie1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mydeliverypal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/profile_photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sail-experience.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/angular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/bootstrap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/cloudant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/firebase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/google-cloud-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/googleMaps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/googlePlaces.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/heroku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/ionic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/jquery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/node.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/pouch-grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/pouch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/slack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/wordpress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tool-logos/git.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tool-logos/sketch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tool-logos/sublime.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tool-logos/ubuntu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tool-logos/webstorm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/triangle-blocked-colors.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/triangle-gradient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/triangleSVG.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/vistoryscreen1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/waitItOuthome_samsung-galaxynote5-gold-portrait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/myScripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/npm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/css/Background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/images/Maurice Partee About me.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/images/Maurice Partee About me_files/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/images/Maurice Partee About me_files/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/images/Trivia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/images/hangman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/images/profile_photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/images/rockpaperscissors.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/images/rockpaperscissors.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/images/rpg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/assets/images/rutgers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap-Portfolio/portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hangman_Game/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hangman_Game/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hangman_Game/assets/images/hangman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hangman_Game/assets/javascript/hangman.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hangman_Game/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/assets/css/Background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/assets/css/style_contact.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/assets/css/style_portfolio.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/assets/images/Trivia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/assets/images/hangman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/assets/images/profile_photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/assets/images/rockpaperscissors.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/assets/images/rpg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/assets/images/rutgers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive-Portfolio/portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The-Giphy/.idea/The-Giphy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The-Giphy/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The-Giphy/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The-Giphy/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The-Giphy/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The-Giphy/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The-Giphy/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The-Giphy/assets/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The-Giphy/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/The-Giphy/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/Akashia.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/Bebe.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/Shannel.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/acid.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/akashia.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/bebe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/coco.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/farrah.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/jinkx.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/jinkx.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/kenya.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/manila.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/naomi.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/nina.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/nina.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/ongina.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/raja.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/raja.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/roxy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/rupaul.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/shannel.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/sharon.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/shea.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/thorgy.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/thorgy.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/valentina.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/valentina.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/willam.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/willam.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/workroom.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/images/yara.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/assets/javascript/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trivia-Game/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/Background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/Trivia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/crystal.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/goat.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hangman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/profile_photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/rockpaperscissors.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/rpg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/rutgers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/assets/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/assets/images/crystal1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/assets/images/crystal2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/assets/images/crystal3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/assets/images/crystal4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/assets/images/crystalcave.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/assets/javascript/game.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/assets/javascript/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-4-game/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -174,10 +15,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-48">
+              <caret line="67" column="62" selection-start-line="67" selection-start-column="62" selection-end-line="67" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>carousel</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -185,10 +49,11 @@
       <list>
         <option value="$PROJECT_DIR$/The-Giphy/assets/style.css" />
         <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
     <option name="y" value="-2" />
     <option name="width" value="1920" />
@@ -206,6 +71,17 @@
             <path>
               <item name="Mpartee123.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mpartee123.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mpartee123.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mpartee123.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mpartee123.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mpartee123.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -257,12 +133,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6585000" />
+    <option name="totallyTimeSpent" value="8061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24074075" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24074075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -289,34 +166,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="Rework of portfolio" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Bootstrap-Portfolio/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap-Portfolio/index.html" />
     <entry file="file://$PROJECT_DIR$/portfolio.html" />
-    <entry file="file://$PROJECT_DIR$/The-Giphy/assets/style.css">
+    <entry file="file://$PROJECT_DIR$/The-Giphy/assets/style.css" />
+    <entry file="file://$PROJECT_DIR$/The-Giphy/assets/app.js" />
+    <entry file="file://$PROJECT_DIR$/The-Giphy/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="154" column="9" selection-start-line="154" selection-start-column="9" selection-end-line="154" selection-end-column="9" />
+        <state relative-caret-position="72">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/The-Giphy/assets/app.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2088">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="-48">
+          <caret line="67" column="62" selection-start-line="67" selection-start-column="62" selection-end-line="67" selection-end-column="62" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/The-Giphy/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
