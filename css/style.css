@@ -94,6 +94,7 @@ p {
 
 .about-side {
     position: fixed;
+    padding: 0 4rem;
 }
 
 .project {
