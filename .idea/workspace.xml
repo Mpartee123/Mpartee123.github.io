@@ -1,9 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37d7c07d-3c60-48a9-a52c-d490c0b3b21d" name="Default Changelist" comment="">
+    <list default="true" id="37d7c07d-3c60-48a9-a52c-d490c0b3b21d" name="Default Changelist" comment="Server is setup and ready for deployment">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap-theme.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/devicon-colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/devicon-colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/devicon.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/devicon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/devicon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/fonts/devicon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/devicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/fonts/devicon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/devicon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/fonts/devicon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/devicon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/fonts/devicon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/hover.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/hover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Liri/BandsInTown.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/Liri/BandsInTown.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Liri/DoWhatItSays.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/Liri/DoWhatItSays.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Liri/Omdb.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/Liri/Omdb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Liri/SpotifyThisSong.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/Liri/SpotifyThisSong.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Ru-Trivia-Answer_dell-xps13-front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Ru-Trivia-Final_dell-xps13-front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Ru-Trivia-First_dell-xps13-front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Ru-Trivia-Home_dell-xps13-front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/linkedin.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/linkedin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/profile_photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/profile_photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/rupaul.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/angular.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/angular.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/bootstrap.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/bootstrap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/cloudant.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/cloudant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/firebase.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/firebase.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/google-cloud-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/google-cloud-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/googleMaps.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/googleMaps.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/googlePlaces.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/googlePlaces.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/heroku.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/heroku.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/ionic.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/ionic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/jquery.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/jquery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/moment.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/moment.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/node.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/node.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/npm.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/npm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/pouch-grey.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/pouch-grey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/pouch.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/pouch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/slack.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/slack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/techlogos/wordpress.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/wordpress.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tool-logos/git.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/tool-logos/git.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tool-logos/sketch.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/tool-logos/sketch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tool-logos/sublime.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/tool-logos/sublime.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tool-logos/ubuntu.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/tool-logos/ubuntu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tool-logos/webstorm.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/tool-logos/webstorm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/trainSchedulerAddTrain_google-nexus9-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/trainSchedulerAddTrain_google-nexus9-portrait.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/trainSchedulerSchedule_google-nexus9-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/trainSchedulerSchedule_google-nexus9-portrait.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/triangle-blocked-colors.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/triangle-blocked-colors.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/triangle-gradient.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/triangle-gradient.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/triangleSVG.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/triangleSVG.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/waitItOutMap_samsung-galaxynote5-gold-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/waitItOutMap_samsung-galaxynote5-gold-portrait.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/waitItOutResults_samsung-galaxynote5-gold-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/waitItOutResults_samsung-galaxynote5-gold-portrait.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/waitItOutSubMenu_samsung-galaxynote5-gold-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/waitItOutSubMenu_samsung-galaxynote5-gold-portrait.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/waitItOuthome_samsung-galaxynote5-gold-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/waitItOuthome_samsung-galaxynote5-gold-portrait.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/js/jquery-3.1.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/myScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/js/myScripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/js/npm.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,12 +92,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/Public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="267" column="18" selection-start-line="267" selection-start-column="18" selection-end-line="267" selection-end-column="18" />
+            <state relative-caret-position="936">
+              <caret line="278" column="18" lean-forward="true" selection-start-line="278" selection-start-column="18" selection-end-line="278" selection-end-column="18" />
               <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -67,14 +141,50 @@
                 <element signature="n#a#0;n#div#0;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#1;n#div#0;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+        <entry file="file://$PROJECT_DIR$/Public/assets/img/triangleSVG.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/assets/css/fonts/devicon.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2352">
               <caret line="98" selection-start-line="98" selection-end-line="98" />
@@ -83,6 +193,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -94,6 +211,11 @@
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -101,7 +223,14 @@
         <option value="$PROJECT_DIR$/The-Giphy/assets/style.css" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Public/assets/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/Public/index.html" />
+        <option value="$PROJECT_DIR$/Public/assets/img/triangleSVG.svg" />
+        <option value="$PROJECT_DIR$/routes/router.js" />
       </list>
     </option>
   </component>
@@ -116,6 +245,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,29 +256,36 @@
             <path>
               <item name="Mpartee123.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mpartee123.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="Public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Mpartee123.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mpartee123.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="techlogos" type="462c0819:PsiDirectoryNode" />
+              <item name="Public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="11.14.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Public/assets" />
+      <recent name="$PROJECT_DIR$/Public" />
+      <recent name="$PROJECT_DIR$/files" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -188,7 +325,9 @@
       <workItem from="1551635711687" duration="2270000" />
       <workItem from="1551745573708" duration="284000" />
       <workItem from="1551752736500" duration="1000" />
-      <workItem from="1551825297402" duration="292000" />
+      <workItem from="1551825297402" duration="940000" />
+      <workItem from="1551919300030" duration="40000" />
+      <workItem from="1555628192063" duration="13095000" />
     </task>
     <task id="LOCAL-00001" summary="Added Carousel for WaitItOut app images">
       <created>1550451989516</created>
@@ -246,31 +385,54 @@
       <option name="project" value="LOCAL" />
       <updated>1551637595257</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Removed RPDR Trivia game">
+      <created>1551825622585</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551825622585</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Removed RPDR Trivia game">
+      <created>1555628497643</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555628497643</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23243000" />
+    <option name="totallyTimeSpent" value="37026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23971476" />
+      <window_info id="DB Browser" />
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20580034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Console" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="SonarLint" weight="0.32998884" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5005291" side_tool="true" visible="true" weight="0.32998884" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4994709" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005291" side_tool="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4994709" weight="0.32887402" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -287,7 +449,9 @@
     <MESSAGE value="Added MCL app and changed some text content." />
     <MESSAGE value="Updated Alt tags" />
     <MESSAGE value="added photos for Liri content" />
-    <option name="LAST_COMMIT_MESSAGE" value="added photos for Liri content" />
+    <MESSAGE value="Removed RPDR Trivia game" />
+    <MESSAGE value="Server is setup and ready for deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Server is setup and ready for deployment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Bootstrap-Portfolio/index.html" />
@@ -295,19 +459,96 @@
     <entry file="file://$PROJECT_DIR$/The-Giphy/assets/style.css" />
     <entry file="file://$PROJECT_DIR$/The-Giphy/assets/app.js" />
     <entry file="file://$PROJECT_DIR$/The-Giphy/index.html" />
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/Public/assets/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Public/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="267" column="18" selection-start-line="267" selection-start-column="18" selection-end-line="267" selection-end-column="18" />
+        <state relative-caret-position="2352">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/assets/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret column="3360" selection-start-column="3360" selection-end-column="3360" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/assets/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/assets/css/bootstrap-theme.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/assets/css/bootstrap-theme.min.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="136" column="12" selection-start-line="136" selection-start-column="12" selection-end-line="136" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/assets/img/triangleSVG.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/assets/css/fonts/devicon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="278" column="18" lean-forward="true" selection-start-line="278" selection-start-column="18" selection-end-line="278" selection-end-column="18" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -352,15 +593,7 @@
             <element signature="n#a#0;n#div#0;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#1;n#div#0;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2352">
-          <caret line="98" selection-start-line="98" selection-end-line="98" />
         </state>
       </provider>
     </entry>
