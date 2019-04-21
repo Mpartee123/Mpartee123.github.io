@@ -1,84 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37d7c07d-3c60-48a9-a52c-d490c0b3b21d" name="Default Changelist" comment="Server is setup and ready for deployment">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    <list default="true" id="37d7c07d-3c60-48a9-a52c-d490c0b3b21d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap-theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap-theme.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap-theme.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/devicon-colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/devicon-colors.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/devicon.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/devicon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/devicon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/fonts/devicon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/devicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/fonts/devicon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/devicon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/fonts/devicon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/devicon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/fonts/devicon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hover.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/hover.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Liri/BandsInTown.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/Liri/BandsInTown.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Liri/DoWhatItSays.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/Liri/DoWhatItSays.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Liri/Omdb.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/Liri/Omdb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Liri/SpotifyThisSong.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/Liri/SpotifyThisSong.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Ru-Trivia-Answer_dell-xps13-front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Ru-Trivia-Final_dell-xps13-front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Ru-Trivia-First_dell-xps13-front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Ru-Trivia-Home_dell-xps13-front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/linkedin.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/linkedin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profile_photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/profile_photo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/rupaul.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/angular.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/angular.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/bootstrap.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/bootstrap.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/cloudant.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/cloudant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/firebase.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/firebase.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/google-cloud-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/google-cloud-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/googleMaps.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/googleMaps.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/googlePlaces.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/googlePlaces.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/heroku.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/heroku.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/ionic.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/ionic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/jquery.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/jquery.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/moment.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/moment.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/node.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/node.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/npm.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/npm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/pouch-grey.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/pouch-grey.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/pouch.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/pouch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/slack.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/slack.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/techlogos/wordpress.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/techlogos/wordpress.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tool-logos/git.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/tool-logos/git.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tool-logos/sketch.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/tool-logos/sketch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tool-logos/sublime.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/tool-logos/sublime.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tool-logos/ubuntu.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/tool-logos/ubuntu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tool-logos/webstorm.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/tool-logos/webstorm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/trainSchedulerAddTrain_google-nexus9-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/trainSchedulerAddTrain_google-nexus9-portrait.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/trainSchedulerSchedule_google-nexus9-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/trainSchedulerSchedule_google-nexus9-portrait.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/triangle-blocked-colors.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/triangle-blocked-colors.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/triangle-gradient.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/triangle-gradient.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/triangleSVG.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/triangleSVG.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/waitItOutMap_samsung-galaxynote5-gold-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/waitItOutMap_samsung-galaxynote5-gold-portrait.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/waitItOutResults_samsung-galaxynote5-gold-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/waitItOutResults_samsung-galaxynote5-gold-portrait.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/waitItOutSubMenu_samsung-galaxynote5-gold-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/waitItOutSubMenu_samsung-galaxynote5-gold-portrait.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/waitItOuthome_samsung-galaxynote5-gold-portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/img/waitItOuthome_samsung-galaxynote5-gold-portrait.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/js/jquery-3.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/myScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/js/myScripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/assets/js/npm.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -91,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="278" column="18" lean-forward="true" selection-start-line="278" selection-start-column="18" selection-end-line="278" selection-end-column="18" />
+            <state relative-caret-position="779">
+              <caret line="148" column="18" selection-start-line="148" selection-start-column="18" selection-end-line="148" selection-end-column="18" />
               <folding>
                 <element signature="n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -147,6 +72,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Public/assets/img/triangleSVG.svg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -177,7 +120,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
+            <state relative-caret-position="2040">
               <caret line="85" selection-start-line="85" selection-end-line="85" />
             </state>
           </provider>
@@ -327,7 +270,8 @@
       <workItem from="1551752736500" duration="1000" />
       <workItem from="1551825297402" duration="940000" />
       <workItem from="1551919300030" duration="40000" />
-      <workItem from="1555628192063" duration="13095000" />
+      <workItem from="1555628192063" duration="13833000" />
+      <workItem from="1555805482323" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="Added Carousel for WaitItOut app images">
       <created>1550451989516</created>
@@ -399,26 +343,36 @@
       <option name="project" value="LOCAL" />
       <updated>1555628497643</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Server is setup and ready for deployment">
+      <created>1555641385575</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1555641385575</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added package.json">
+      <created>1555805587543</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555805587543</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37026000" />
+    <option name="totallyTimeSpent" value="38129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="DB Browser" />
-      <window_info id="Project Explorer" />
-      <window_info id="Job Explorer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20580034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20914668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Console" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="SonarLint" weight="0.32998884" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Project Explorer" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
@@ -431,11 +385,15 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005291" side_tool="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4994709" weight="0.32887402" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="SonarLint" order="13" weight="0.32998884" />
+      <window_info anchor="bottom" id="DB Execution Console" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +409,8 @@
     <MESSAGE value="added photos for Liri content" />
     <MESSAGE value="Removed RPDR Trivia game" />
     <MESSAGE value="Server is setup and ready for deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Server is setup and ready for deployment" />
+    <MESSAGE value="Added package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added package.json" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Bootstrap-Portfolio/index.html" />
@@ -463,27 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2352">
-          <caret line="98" selection-start-line="98" selection-end-line="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -524,30 +462,10 @@
     <entry file="file://$PROJECT_DIR$/Public/assets/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/assets/img/triangleSVG.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/assets/css/fonts/devicon.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="278" column="18" lean-forward="true" selection-start-line="278" selection-start-column="18" selection-end-line="278" selection-end-column="18" />
+        <state relative-caret-position="779">
+          <caret line="148" column="18" selection-start-line="148" selection-start-column="18" selection-end-line="148" selection-end-column="18" />
           <folding>
             <element signature="n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -594,6 +512,54 @@
             <element signature="n#a#1;n#div#0;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/assets/img/triangleSVG.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/assets/css/fonts/devicon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2352">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
