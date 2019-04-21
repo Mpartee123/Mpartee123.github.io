@@ -1,0 +1,29 @@
+{
+  "name": "mpartee123.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mpartee123/Mpartee123.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mpartee123/Mpartee123.github.io/issues"
+  },
+  "homepage": "https://github.com/Mpartee123/Mpartee123.github.io#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mime": "^2.4.2",
+    "serve-static": "latest"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
+  }
+}
